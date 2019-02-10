@@ -16,7 +16,7 @@ git config --global core.safecrlf true
 git config --global core.quotepath off
 ```
 
-###Practical stuff
+### Practical stuff
 ```shell
 git init                  # Creates a NEW REPO IN CURRENT FOLDER
 
@@ -30,9 +30,17 @@ git push                  # Sends to Hub
 
 git pull                  # Takes updates from server to local
 
+git checkout *name*       # Goes to branch      (and then git pull)
+
 git checkout -b *name*    # Creates a new branch and goes to it
 
 git branch *name*         # Just creates branch
+
+git merge *branch*        # Merges *branch* to current branch
+
+git request-pull
+
+
 
 ```
 
@@ -47,4 +55,14 @@ git reset           # Cancels on 'add' stage
 git log --pretty=oneline # dah
 
 git revert HEAD     # Cancels last commit
+```
+
+###Tags
+```shell
+git tag -a v1.0
+
+git push -tags
+
+git checkout *tag*
+
 ```
