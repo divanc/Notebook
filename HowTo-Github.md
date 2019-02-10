@@ -5,18 +5,6 @@ Okay, that may sound strange, but making a durable pauses I often forget how to 
 First of all, how to write markdown texts like this one. I guess [Github Tutorial](https://guides.github.com/features/mastering-markdown/) is nice enough, but let's talk commands:
 
 
-### First Config
-
-```console
-divan@giter:~$ git config --global user.name "Divan"
-divan@giter:~$ git config --global user.email "SendMeA@mail.com"
-
-divan@giter:~$ git config --global core.autocrlf input
-divan@giter:~$ config --global core.safecrlf true 
-
-divan@giter:~$ git config --global core.quotepath off
-```
-
 ### Practical stuff
 
 ```console
@@ -67,4 +55,17 @@ divan@giter:~$ git push -tags
 
 divan@giter:~$ git checkout *tag*
 
+```
+
+
+### First Config
+
+```console
+divan@giter:~$ git config --global user.name "Divan"
+divan@giter:~$ git config --global user.email "SendMeA@mail.com"
+
+divan@giter:~$ git config --global core.autocrlf input
+divan@giter:~$ config --global core.safecrlf true 
+
+divan@giter:~$ git config --global core.quotepath off
 ```
