@@ -1,11 +1,11 @@
 
 
-#How To Github
+# How To Github
 Okay, that may sound strange, but making a durable pauses I often forget how to do some basic tasks via Git.  
 First of all, how to write markdown texts like this one. I guess [Github Tutorial](https://guides.github.com/features/mastering-markdown/) is nice enough, but let's talk commands:
 
 
-###First Config
+### First Config
 ```shell
 git config --global user.name "Divan"
 git config --global user.email "SendMeA@mail.com"
@@ -44,7 +44,7 @@ git request-pull
 
 ```
 
-###Extra stuff
+### Extra stuff
 ```shell
 git status          # Checks wether there are ambiguos ambivalent stuff
 
@@ -57,7 +57,7 @@ git log --pretty=oneline # dah
 git revert HEAD     # Cancels last commit
 ```
 
-###Tags
+### Tags
 ```shell
 git tag -a v1.0
 
