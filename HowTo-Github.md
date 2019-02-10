@@ -7,40 +7,40 @@ First of all, how to write markdown texts like this one. I guess [Github Tutoria
 
 ### First Config
 
-```console
-git config --global user.name "Divan"
-git config --global user.email "SendMeA@mail.com"
+```shell
+divan@giter:~$ git config --global user.name "Divan"
+divan@giter:~$ git config --global user.email "SendMeA@mail.com"
 
-git config --global core.autocrlf input
-git config --global core.safecrlf true 
-??
-git config --global core.quotepath off
+divan@giter:~$ git config --global core.autocrlf input
+divan@giter:~$ config --global core.safecrlf true 
+
+divan@giter:~$ git config --global core.quotepath off
 ```
 
 ### Practical stuff
 
-```{r, engine='bash', count_lines}
-git init                  # Creates a NEW REPO IN CURRENT FOLDER
+```shell
+divan@giter:~$ git init                  # Creates a NEW REPO IN CURRENT FOLDER
 
-git clone *url*           # Downloads from url
+divan@giter:~$ git clone *url*           # Downloads from url
 
-git add filename          # Sends file to the query
+divan@giter:~$ git add filename          # Sends file to the query
 
-git commit -m "What A Lovely Day" #Commits, dah?
+divan@giter:~$ git commit -m "What A Lovely Day" #Commits, dah?
 
-git push                  # Sends to Hub
+divan@giter:~$ git push                  # Sends to Hub
 
-git pull                  # Takes updates from server to local
+divan@giter:~$ git pull                  # Takes updates from server to local
 
-git checkout *name*       # Goes to branch      (and then git pull)
+divan@giter:~$ git checkout *name*       # Goes to branch      (and then git pull)
 
-git checkout -b *name*    # Creates a new branch and goes to it
+divan@giter:~$ git checkout -b *name*    # Creates a new branch and goes to it
 
-git branch *name*         # Just creates branch
+divan@giter:~$ git branch *name*         # Just creates branch
 
-git merge *branch*        # Merges *branch* to current branch
+divan@giter:~$ git merge *branch*        # Merges *branch* to current branch
 
-git request-pull
+divan@giter:~$ git request-pull
 
 
 
@@ -48,23 +48,23 @@ git request-pull
 
 ### Extra stuff
 ```shell
-git status          # Checks wether there are ambiguos ambivalent stuff
+divan@giter:~$ git status          # Checks wether there are ambiguos ambivalent stuff
 
-git checkout        # Cancels & drops changes
+divan@giter:~$ git checkout        # Cancels & drops changes
 
-git reset           # Cancels on 'add' stage
+divan@giter:~$ git reset           # Cancels on 'add' stage
 
-git log --pretty=oneline # dah
+divan@giter:~$ git log --pretty=oneline # dah
 
-git revert HEAD     # Cancels last commit
+divan@giter:~$ git revert HEAD     # Cancels last commit
 ```
 
 ### Tags
 ```shell
-git tag -a v1.0
+divan@giter:~$ git tag -a v1.0
 
-git push -tags
+divan@giter:~$ git push -tags
 
-git checkout *tag*
+divan@giter:~$ git checkout *tag*
 
 ```
