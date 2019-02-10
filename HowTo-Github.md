@@ -19,7 +19,7 @@ divan@giter:~$ git config --global core.quotepath off
 
 ### Practical stuff
 
-```shell
+```console
 divan@giter:~$ git init                  # Creates a NEW REPO IN CURRENT FOLDER
 
 divan@giter:~$ git clone *url*           # Downloads from url
