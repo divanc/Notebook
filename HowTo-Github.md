@@ -6,7 +6,8 @@ First of all, how to write markdown texts like this one. I guess [Github Tutoria
 
 
 ### First Config
-```shell
+
+```console
 git config --global user.name "Divan"
 git config --global user.email "SendMeA@mail.com"
 
@@ -17,7 +18,8 @@ git config --global core.quotepath off
 ```
 
 ### Practical stuff
-```shell
+
+```{r, engine='bash', count_lines}
 git init                  # Creates a NEW REPO IN CURRENT FOLDER
 
 git clone *url*           # Downloads from url
