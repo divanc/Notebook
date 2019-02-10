@@ -7,7 +7,7 @@ First of all, how to write markdown texts like this one. I guess [Github Tutoria
 
 ### First Config
 
-```shell
+```console
 divan@giter:~$ git config --global user.name "Divan"
 divan@giter:~$ git config --global user.email "SendMeA@mail.com"
 
@@ -47,7 +47,7 @@ divan@giter:~$ git request-pull
 ```
 
 ### Extra stuff
-```shell
+```console
 divan@giter:~$ git status          # Checks wether there are ambiguos ambivalent stuff
 
 divan@giter:~$ git checkout        # Cancels & drops changes
@@ -60,7 +60,7 @@ divan@giter:~$ git revert HEAD     # Cancels last commit
 ```
 
 ### Tags
-```shell
+```console
 divan@giter:~$ git tag -a v1.0
 
 divan@giter:~$ git push -tags
