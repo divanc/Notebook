@@ -24,7 +24,7 @@ divan@giter:~$ git checkout *name*       # Goes to branch      (and then git pul
 
 divan@giter:~$ git checkout -b *name*    # Creates a new branch and goes to it
 
-divan@giter:~$ git branch *name*         # Just creates branch
+divan@giter:~$ git branch *name*         # Just creates branch (without name shows all branches)
 
 divan@giter:~$ git merge *branch*        # Merges *branch* to current branch
 
@@ -57,7 +57,10 @@ divan@giter:~$ git checkout *tag*
 
 ```
 
-
+### Connecting To A Remote Repo
+```console
+divan@giter:~$ git remote add origin https://github.com/Betra/Course-Abstract.git 
+```
 ### First Config
 
 ```console
