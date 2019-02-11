@@ -12,7 +12,7 @@
 
 `Things are tiny`
 
-**Easy desision** = *viewport*
+**Easy decision** = *viewport*
 
     Viewport = viewable part of a page
 ```html 
@@ -30,7 +30,7 @@ Fixing this causes UI to become much bigger, as typically browser expects us to 
 #### Problem #2
 `Can't see everything, having horizontal scroll`
 
-**Easy desision** = Never adjust fixated width, em helps too
+**Easy decision** = Never adjust fixated width, em helps too
 
 BAD | SWEET
 ------------ | -------------
@@ -39,7 +39,7 @@ BAD | SWEET
 #### Problem 3 
 `Too big headers for phones`
 
-**Easy desision** = CSS Media Queries
+**Easy decision** = CSS Media Queries
 
 ```css
  @media and (max-width:400px) {
@@ -49,7 +49,7 @@ BAD | SWEET
  }
  ```
     
-    ``` @media > media type > if {}```
+    @media > media type > if {setting}
 
 **Breakpoints where content breaks**
 * Make screen smaller
@@ -59,7 +59,7 @@ BAD | SWEET
 #### Problem 4
 `Words moving out lines`
 
-**Easy desision** = min-width
+**Easy decision** = min-width
 
 ```css
 .message {
