@@ -108,4 +108,41 @@ Well, in horizontal that sucks
 *Check out:[Flexbox Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/) & [Visual Guide](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)*
 
 ## Much better solution
+# CSS Grid Layout
 
+    Flexbox controls just one axis, wheres CSS Grid can manage both, hence you can
+
+### Vocabulary
+* Track
+* Row
+* Column
+* Grid line
+* Grid area [rectabgle]
+* Gutter [Gaps]
+
+### Debugging
+
+Chrome Dev Tools // Firefox ?
+
+### Naming
+
+```html
+<div class='layout'>
+    <header>HEADER</header>
+    <main>CONTENT</main>
+    <section>
+        <header>LINKS</header>
+        <h3>TAGS</h3>
+        <h3>CATEGORIES</h3>
+        <h3>SOCIALS</h3>
+    </section>
+    <footer>FOOTER</footer>
+</div> 
+```
+We get:
+![This](https://i.ibb.co/C8NH0HR/Screenshot-2019-02-11-at-22-37-10.png)
+CSS Can do stuff
+```css
+```
+We get:
+![This](https://i.ibb.co/GCfnhN8/Screenshot-2019-02-11-at-22-38-00.png)
