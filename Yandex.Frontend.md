@@ -276,7 +276,7 @@ html {
 h1 { font-size: 2rem }
 ```
 
-OR 
+<p align="center"> OR  </p>
 
 ```css
 h1 { font-size: 22px }
