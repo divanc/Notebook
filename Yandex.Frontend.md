@@ -305,5 +305,3 @@ h1 { font-size: 22px }
 * [Responsive images](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 * [Responsive Typography (basic)](http://webdesign.tutsplus.com/tutorials/the-lazy-persons-guide-to-responsive-typography--cms-22822)
 * [Responsive Typography (advanced)](https://www.smashingmagazine.com/2017/05/fluid-responsive-typography-css-poly-fluid-sizing/)
-
-* []()
