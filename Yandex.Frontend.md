@@ -36,5 +36,5 @@ Never adjust fixated width
 
 BAD | SWEET
 ------------ | -------------
-```.section_Content {width: 1200px;} ```| ```.section_Content {max-width: 1200px;} ```
+```css .section_Content {width: 1200px;} ```| ```.section_Content {max-width: 1200px;} ```
 
