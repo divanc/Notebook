@@ -266,6 +266,8 @@ Two approaches:
 * @media + rem
 * calc() + vw
 
+One | Two
+------------ | -------------
 ```css
 html {
   font-size: 14px;
@@ -274,12 +276,23 @@ html {
   html { font-size: 12px }
 }
 h1 { font-size: 2rem }
-
-OR 
-
+```
+|
+```css
 h1 { font-size: 22px }
 
 @media (min-width: 768px) {
   h1 {font-size: calc(4.4vw - 10px) }
 }
 ```
+
+## Courses
+
+* **[Udacity — Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256)**
+* **[Google — Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)**
+* **[Пацев — CSS](https://events.yandex.ru/lib/talks/1523/)**
+* **[Пацев — Text](https://events.yandex.ru/lib/talks/1524/)**
+* **[Пацев — Visual Formatting](https://events.yandex.ru/lib/talks/1548/)**
+* **[Пацев — Layouts. At-rules](https://events.yandex.ru/lib/talks/1556/)**
+* **[Пацев — Colurs & Back. Transition. Animation](https://events.yandex.ru/lib/talks/1557/)**
+* **[Intro to viewport and new RWD CSS](https://vimeo.com/93347108)**
