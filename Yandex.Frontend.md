@@ -268,7 +268,7 @@ Two approaches:
 
 One | Two
 ------------ | -------------
-```css
+|```css
 html {
   font-size: 14px;
 }
@@ -278,14 +278,15 @@ html {
 h1 { font-size: 2rem }
 ```
 |
-```css
+|
+|```css
 h1 { font-size: 22px }
 
 @media (min-width: 768px) {
   h1 {font-size: calc(4.4vw - 10px) }
 }
 ```
-
+|
 ## Courses
 
 * **[Udacity — Mobile Web Development](https://www.udacity.com/course/mobile-web-development--cs256)**
