@@ -7,7 +7,7 @@ I am studying [official Docs](https://reactjs.org/docs/).
 
 ## 1. Hello, World!
 
-Fantastic, I mean, have you seen this? 
+Fantastic, I mean, have you seen this?
 
 ```js
 ReactDOM.render(
