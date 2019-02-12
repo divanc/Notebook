@@ -1,9 +1,6 @@
-
-
 # How To Github
 Okay, that may sound strange, but making a durable pauses I often forget how to do some basic tasks via Git.  
 First of all, how to write markdown texts like this one. I guess [Github Tutorial](https://guides.github.com/features/mastering-markdown/) is nice enough, but let's talk commands:
-
 
 ### Practical stuff
 
@@ -29,12 +26,10 @@ divan@giter:~$ git branch *name*         # Just creates branch (without name sho
 divan@giter:~$ git merge *branch*        # Merges *branch* to current branch
 
 divan@giter:~$ git request-pull
-
-
-
 ```
 
 ### Extra stuff
+
 ```console
 divan@giter:~$ git status          # Checks wether there are ambiguos ambivalent stuff
 
@@ -48,6 +43,7 @@ divan@giter:~$ git revert HEAD     # Cancels last commit
 ```
 
 ### Tags
+
 ```console
 divan@giter:~$ git tag -a v1.0
 
@@ -58,9 +54,19 @@ divan@giter:~$ git checkout *tag*
 ```
 
 ### Connecting To A Remote Repo
+
 ```console
 divan@giter:~$ git remote add origin https://github.com/Betra/Course-Abstract.git 
 ```
+
+### Gitignoring
+
+```console
+divan@giter:~$ echo "*.DS_Store" >> .gitignore
+
+divan@giter:~$ git rm --cached .DS_Store #Deletes from a repo
+```
+
 ### First Config
 
 ```console
