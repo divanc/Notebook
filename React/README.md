@@ -1,4 +1,4 @@
-[Back to courses](../)
+[Back to courses](https://github.com/Betra/Course-Abstract)
 
 ![Yo](https://cdn-images-1.medium.com/max/1600/1*kt9otqHk14BZIMNruiG0BA.png)
 
