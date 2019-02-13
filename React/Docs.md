@@ -370,4 +370,6 @@ function withdraw(account, amount) {
   account.total -= amount;
 }
 ```
-The first rule of ~~The Fighting Cl~~ React
+
+The first rule of ~~The Fighting Cl~~ React is to keep components pure. It doesn't mean React is static yet. So here we are with...
+
