@@ -1,8 +1,5 @@
 # React JS
 
-
-<hr>
-
 ## 1. Hello, World!
 
 Fantastic, I mean, have you seen this?
