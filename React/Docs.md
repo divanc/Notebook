@@ -317,3 +317,57 @@ function Avatar(props) {
 As we might use it now not only in comment section, we gave a prop more generic name — `user` instead of `author`
 
 Next! Ah, `UserInfo`
+
+```js
+function UserInfo(props) {
+  return (
+    <div className="UserInfo">
+      <Avatar user={props.user} />
+      <div className="UserInfo-name">
+        {props.user.name}
+      </div>
+    </div>
+  );
+}
+```
+
+So now we have two usable components and comment component will look like this
+
+```js
+function Comment(props) {
+  return (
+    <div className="Comment">
+      <UserInfo user={props.author} />
+      <div className="Comment-text">
+      {props.text}
+      </div>
+      <div className="Comment-date">
+      {formatDate(props.date)}
+      </div>
+    </div>
+  );
+}
+```
+
+**R E A D A B I L I T Y**
+
+Let's save the Nature — reuse things
+
+### Props & Read-only
+
+  A component MUST NEVER modify it's own props
+
+```js
+function sum(a,b) {
+  return a+b;
+}
+```
+
+These are `pure` functions cuz they don't change their input values, unlike this bad boy
+
+```js
+function withdraw(account, amount) {
+  account.total -= amount;
+}
+```
+The first rule of ~~The Fighting Cl~~ React
