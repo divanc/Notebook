@@ -2,8 +2,7 @@
 [< Previous abstract](React__6.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React) | [Next abstract >](React__8.md)
 ----------------------- | ----------------------------|-----------------------------
 
-
-## Conditional Rendering
+## 7. Conditional Rendering
 
   In React, you can create distinct components that encapsulate behavior you need. Then, you can render only some of them, depending on the state of your application.
 
