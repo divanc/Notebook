@@ -1,7 +1,7 @@
 [< Previous abstract](React__7.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React) | [Next abstract >](React__9.md)
 ----------------------- | ----------------------------|-----------------------------
 
-## Lists & Keys
+## 8. Lists & Keys
 
 Let's review how we transformed lists in JS
 
@@ -197,4 +197,3 @@ function NumberList = props =>
 
   Keep in mind that if the `map()` body is too nested, it might be a good time to extract a component.
 
-  
