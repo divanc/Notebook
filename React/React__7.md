@@ -1,5 +1,5 @@
 
-<table style="position:relative;left:40%;right:40%">
+<table style="position:relative;left:200px;right:200px">
     <tr>
         <td><a href="React__6.md">< Previous abstract</a></td>
         <td><a href="https://github.com/Betra/Course-Abstract/tree/master/React">Back To React Folder</a></td>
