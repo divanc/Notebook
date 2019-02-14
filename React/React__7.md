@@ -1,12 +1,12 @@
-<center>
-<table>
+
+<table style="position:relative;left:40%;right:40%">
     <tr>
         <td><a href="React__6.md">< Previous abstract</a></td>
         <td><a href="https://github.com/Betra/Course-Abstract/tree/master/React">Back To React Folder</a></td>
         <td><a href="React__8.md">Next Abstract ></a></td>
     </tr>
 </table>
-</center>
+</p>
 
 ## Conditional Rendering
 
