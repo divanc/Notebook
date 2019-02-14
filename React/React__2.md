@@ -1,3 +1,8 @@
+
+[< Previous abstract](React__1.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React) | [Next abstract >](React__3.md)
+----------------------- | ----------------------------|-----------------------------
+
+
 ## 2. JSX
 
 We are free to mix HTML & JS, as a dino, I wanted this forever

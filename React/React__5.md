@@ -1,4 +1,7 @@
 
+[< Previous abstract](React__4.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React) | [Next abstract >](React__6.md)
+----------------------- | ----------------------------|-----------------------------
+
 ## 5. State and Lifecycle
 
   Consider the ticking clock example from one of the previous sections. In Rendering Elements, we have only learned one way to update the UI. We call ReactDOM.render() to change the rendered output:

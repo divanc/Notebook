@@ -1,4 +1,8 @@
 
+[< Previous abstract](React__2.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React) | [Next abstract >](React__4.md)
+----------------------- | ----------------------------|-----------------------------
+
+
 ## 3. Rendering Elements
 
   Element describes what I want to see on screen, much more plain than browser DOM objects

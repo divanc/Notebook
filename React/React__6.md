@@ -1,4 +1,7 @@
 
+[< Previous abstract](React__5.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React) | [Next abstract >](React__7.md)
+----------------------- | ----------------------------|-----------------------------
+
 ## Handling Events
 
 Handling is similar to HTML, yet you have to use camelCase:

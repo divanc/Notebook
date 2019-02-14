@@ -1,4 +1,7 @@
 
+[< Previous abstract](React__3.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React) | [Next abstract >](React__5.md)
+----------------------- | ----------------------------|-----------------------------
+
 ## 4. Components & Props
 
   Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.
