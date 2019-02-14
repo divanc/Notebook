@@ -1,6 +1,9 @@
-<span style="position:relative;left:0;">[< Previous abstract](React__6.md)</span>
-<span style="position:relative;left:50%;">[Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React)</span>
-<span style="position:relative;right:0;">[Next abstract >](React__8.md)</span>
+
+
+<p style="text-align:center;">[< Previous abstract](React__6.md)
+[Back To React Folder](https://github.com/Betra/Course-Abstract/tree/master/React)
+[Next abstract >](React__8.md)
+</p>
 
 ## Conditional Rendering
 
