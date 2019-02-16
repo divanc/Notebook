@@ -6,7 +6,7 @@
 
     Nice thing to have back in 2000
 
-I am studying [official Docs](https://reactjs.org/docs/).
+I am studying [official Docs](https://reactjs.org/docs/). Also [this resource](https://facebook.github.io/create-react-app/docs/getting-started), yet without outlining, as it pretty short any ways
 
 An outstanding tool to develop future.
 
