@@ -69,6 +69,7 @@ BAD | SWEET
 ```
 
 **Better Alternative** = @media
+
 ```css
 .message {
     min-width: 265px;
@@ -79,9 +80,11 @@ BAD | SWEET
     }
 }
 ```
+
 Well, in horizontal that sucks
 
 **Even Better Alternative** = *Flexbox*
+
 ```css
 .header_messages {
     display: flex;
@@ -99,6 +102,7 @@ Well, in horizontal that sucks
 ```
 
 #### Flexbox
+
 * Adaptive lists
 * Centering
 * ungridable grids
@@ -111,6 +115,7 @@ Well, in horizontal that sucks
     Flexbox controls just one axis, wheres CSS Grid can manage both, hence you can
 
 ### Vocabulary
+
 * Track
 * Row
 * Column
