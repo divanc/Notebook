@@ -6,7 +6,7 @@
 
     Nice thing to have back in 2000
 
-I am studying [official Docs](https://reactjs.org/docs/).
+I am studying [official Docs](https://reactjs.org/docs/). Also [this resource](https://facebook.github.io/create-react-app/docs/getting-started), yet without outlining, as it pretty short any ways
 
 An outstanding tool to develop future.
 
@@ -26,3 +26,15 @@ An outstanding tool to develop future.
 10. [Lifting State Up](React__10.md)
 11. [Composition vs Inheritance](React__11.md)
 12. [Thinking In React](React__12.md)
+
+### Hooks
+Coming soon
+
+1. Introducing Hooks
+2. Hooks At A Glance
+3. Using The State Hook
+4. Using The Effect Hook
+5. Rules Of Hooks
+6. Building Your Own Hooks
+7. Hooks API Ref
+8. Hooks FAQ
