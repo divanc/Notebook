@@ -10,3 +10,4 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 * [Yandex UI School](https://github.com/Betra/Course-Abstract/tree/master/Yandex%20UI%20School)
 * [React Docs](https://github.com/Betra/Course-Abstract/tree/master/React)
 * [How To Remember All That Git](https://github.com/Betra/Course-Abstract/blob/master/How%20To/How-To-Github.md)
+* [Learn.Javascript.ru](https://github.com/Betra/Course-Abstract/tree/master/Learn%20Javascript)
