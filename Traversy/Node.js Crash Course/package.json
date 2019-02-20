@@ -1,0 +1,19 @@
+{
+  "name": "node-js-crash",
+  "version": "1.0.0",
+  "description": "node js crash course tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Ivancik",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.10",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemin": "^1.0.1"
+  }
+}
