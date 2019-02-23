@@ -1,6 +1,6 @@
 # Git-flow Aliases
 
-Full table is available [here](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git-flow).
+Full table is available [here](https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png).
 
 ![cheatsheet](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi78pHSu9LgAhXNp4sKHe_WAcsQjRx6BAgBEAU&url=https%3A%2F%2Fdanielkummer.github.io%2Fgit-flow-cheatsheet%2F&psig=AOvVaw3VIk6-U08CRAriUORZAX_Q&ust=1551032277694674)
 
