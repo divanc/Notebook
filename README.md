@@ -11,3 +11,6 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 * [React Docs](https://github.com/Betra/Course-Abstract/tree/master/React)
 * [How To Remember All That Git](https://github.com/Betra/Course-Abstract/blob/master/How%20To/How-To-Github.md)
 * [Learn.Javascript.ru](https://github.com/Betra/Course-Abstract/tree/master/Learn%20Javascript)
+* [Traversy](https://github.com/Betra/Course-Abstract/tree/master/Traversy)
+* [Cheatsheets](https://github.com/Betra/Course-Abstract/tree/master/Cheatsheet)
+* [Articles from diffrent places](https://github.com/Betra/Course-Abstract/tree/master/Articles)
