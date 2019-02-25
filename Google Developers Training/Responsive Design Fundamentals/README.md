@@ -2,6 +2,8 @@
 
 # Responsive Web Design Fundamentals
 
+[Original Course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893)
+
 1. [Lesson 1: Sites on Mobile](#1)
 2. [Lesson 2: Digging in](#2)
 3. [Lesson 3: Page Layout](#3)
