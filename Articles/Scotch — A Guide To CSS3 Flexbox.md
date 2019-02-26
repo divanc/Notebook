@@ -3,6 +3,7 @@
 [This](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) guide.
 
 **Flexbox** –> smaller components of project
+
 **CSS Grids** –> a whole layout
 
 1. [Basics](#1)
