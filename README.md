@@ -23,6 +23,7 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 
 * [Google Dev Training](/Google%20Developers%20Training/)
 * [Yandex UI School](/Yandex%20UI%20School/)
+* [CSS3 Flexbox](/Articles/Scotch%20—%20A%20Guide%20To%20CSS3%20Flexbox.md)
 
 ### System
 
