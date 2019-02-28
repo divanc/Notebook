@@ -7,9 +7,13 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 
 ## Table Of Contents
 
+### React
+
+* [React Docs](/React/React%20Docs/)
+* [React Spring](/React/React%20Spring/)
+
 ### JS & Libraries
 
-* [React Docs](/React/)
 * [TypeScript Deep Dive](/TypeScript%20Deep%20Dive/)
 * [Learn.Javascript.ru](/Learn%20Javascript/)
 * [Traversy — Node.js](/Traversy/Node.js%20Crash%20Course/)
