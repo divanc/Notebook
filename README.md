@@ -11,7 +11,8 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 
 * [React Docs](/React/React%20Docs/)
 * [React Spring](/React/React%20Spring/)
-* [Traversy — React Spring](/Traversy/React%20Spring%20Crash/)
+* [Traversy — React Spring Intro](/Traversy/React%20Spring%20Crash/)
+* [Traversy — React Hooks Intro](/Traversy/React%20Hooks%20Crash/)
 
 ### JS & Libraries
 
