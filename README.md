@@ -22,6 +22,7 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 * [Learn.Javascript.ru](/Learn%20Javascript/)
 * [Traversy — Node.js](/Traversy/Node.js%20Crash%20Course/)
 * [Habr: ES6 For Humans](/Articles/Habr%20%E2%80%94%20ES6%20for%20humans.md)
+* [Traversy — Fetch API](/Traversy/Fetch%20API%20Crash/)
 
 ### Frontend
 
