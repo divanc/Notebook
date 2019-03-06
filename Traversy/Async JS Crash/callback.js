@@ -30,9 +30,9 @@ function createPost(post) {
   });
 }
 
-async function init() {
-  await createPost({title:'Post 4', body: '444'});
-  getPosts();
-}
+async function fetchData() {
+  const res = await fetch(...);
+  const data = await res.json();
 
-init();
+  console.log(data);
+}
