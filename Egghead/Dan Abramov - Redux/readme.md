@@ -38,7 +38,7 @@ If we have a todo app, we want to store all aspects in one object, so if a task 
 
 It is a js object, the minimum representation of state:
 
-```json
+```js
 [object Object] { /// THIS IS STATE TREE
   type: 'INCREMENT' // THIS IS ONE ACTION
 }
