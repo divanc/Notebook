@@ -7,7 +7,7 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 
 ## Table Of Contents
 
-### React
+### React/Redux
 
 * [React Docs](/React/React%20Docs/)
 * [React Spring](/React/React%20Spring/)
@@ -15,6 +15,7 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 * [Traversy — React Spring Intro](/Traversy/React%20Spring%20Crash/)
 * [Traversy — React Hooks Intro](/Traversy/React%20Hooks%20Crash/)
 * [Traversy — React-Redux](/Traversy/Redux%20Crash)
+* [Dan Abramov on Redux](/Egghead/Dan%20Abramov%20-%20Redux)
 
 ### JS & Libraries
 
