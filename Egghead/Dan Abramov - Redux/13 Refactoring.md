@@ -194,3 +194,181 @@ And in container component:
     }
   />
 ```
+
+## Footer: Links
+
+We had:
+
+```jsx
+{
+  /* Show links for visibility */
+}
+<p>
+  Show: {"   "}
+  <FilterLink filter="SHOW_ALL" currentFilter={visibilityFilter}>
+    All
+  </FilterLink> {"  "}
+  <FilterLink filter="SHOW_ACTIVE" currentFilter={visibilityFilter}>
+    Active
+  </FilterLink>{" "}
+  {"  "}
+  <FilterLink filter="SHOW_COMPLETED" currentFilter={visibilityFilter}>
+    Completed
+  </FilterLink> {"  "}
+</p>;
+```
+
+We want to make `Footer` and `FilterLink` to become presentational, so in `FooterLink` we uplift `onClick`:
+
+```jsx
+...
+onClick={e => {
+  e.preventDefault();
+  onClick(filter);
+}}
+...
+```
+
+So `Footer` now is:
+
+```jsx
+export const Footer = ({ visibilityFilter, onFilterClick }) => (
+  <p>
+    Show: {"   "}
+    <FilterLink
+      filter="SHOW_ALL"
+      currentFilter={visibilityFilter}
+      onClick={onFilterClick}
+    >
+      All
+    </FilterLink> {"  "}
+    <FilterLink
+      filter="SHOW_ACTIVE"
+      currentFilter={visibilityFilter}
+      onClick={onFilterClick}
+    >
+      Active
+    </FilterLink>{" "}
+    {"  "}
+    <FilterLink
+      filter="SHOW_COMPLETED"
+      currentFilter={visibilityFilter}
+      onClick={onFilterClick}
+    >
+      Completed
+    </FilterLink> {"  "}
+  </p>
+);
+```
+
+In container:
+
+````jsx
+<Footer
+  visibilityFilter={visibilityFilter}
+  onFilterClick={filter => {
+    store.dispatch({
+      type: "SET_VISIBILITY_FILTER",
+      filter
+    });
+    ```
+````
+
+## Finally
+
+We can set `TodoApp` to become function, not class, it is not needed any longer:
+
+### It was:
+
+```jsx
+export class TodoApp extends React.Component {
+  constructor(props) {
+    super(props);
+    // Saving a value of input
+    this.state = { value: "" };
+    this.onChange = this.onChange.bind(this);
+  }
+
+  onChange(event) {
+    this.setState({ value: event.target.value });
+  }
+
+  render() {
+    const { todos, visibilityFilter } = this.props;
+
+    // Instead of **just** todos we would render visible todos
+    const visibleTodos = getVisibleTodos(todos, visibilityFilter);
+    return (
+      <div>
+        <AddTodo
+          onAddClick={text =>
+            store.dispatch({
+              type: "ADD_TODO",
+              id: nextTodoId++,
+              text
+            })
+          }
+        />
+
+        <TodoList
+          todos={visibleTodos}
+          onTodoClick={id => {
+            store.dispatch({
+              type: "TOGGLE_TODO",
+              id
+            });
+          }}
+        />
+
+        <Footer
+          visibilityFilter={visibilityFilter}
+          onFilterClick={filter => {
+            store.dispatch({
+              type: "SET_VISIBILITY_FILTER",
+              filter
+            });
+          }}
+        />
+      </div>
+    );
+  }
+}
+```
+
+### NOW COMES MAGIC
+
+```jsx
+export const TodoApp = ({ todos, visibilityFilter }) => (
+  <div>
+    <AddTodo
+      onAddClick={text =>
+        store.dispatch({
+          type: "ADD_TODO",
+          id: nextTodoId++,
+          text
+        })
+      }
+    />
+
+    <TodoList
+      todos={getVisibleTodos(todos, visibilityFilter)}
+      onTodoClick={id => {
+        store.dispatch({
+          type: "TOGGLE_TODO",
+          id
+        });
+      }}
+    />
+
+    <Footer
+      visibilityFilter={visibilityFilter}
+      onFilterClick={filter => {
+        store.dispatch({
+          type: "SET_VISIBILITY_FILTER",
+          filter
+        });
+      }}
+    />
+  </div>
+);
+```

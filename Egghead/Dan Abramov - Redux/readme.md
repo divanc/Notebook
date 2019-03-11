@@ -4,7 +4,7 @@
 <img src="https://images.contentful.com/34rjphroaymg/4rnTNHjdSoEWmYUg2YgE0y/8fe539e8bb8b6465e107b6154f669f11/redux.svg" width="240">
 </p>
 
-[This]() wonderful course.
+[This]() wonderful fantastic tremendous super ultra meta lydian course.
 
 1. [Redux: The Immutable State Tree](/1%20State%20Tree.md)
 2. [Reducer](/%202%20Reducer.md)
@@ -19,7 +19,8 @@
    8.3 [React Todo List: Adding todos](10%Todo%React%201.md)
    8.4 [React Todo List: Toggling todos](11%Todo%React%202.md)
    8.5 [React Todo List: Filtering todos](12%Todo%React%203.md)
-   8.6 [Refacturing Todo](13%20Refacturing.md)
+   8.6 [**Refacturing Todo**](13%20Refacturing.md)
+   8.7 [**Refacturing The Refactured Todo!**](14%20Refacturing%202.md)
 
 Danчик will teach us how to manage state of our React App via Redux;
 
