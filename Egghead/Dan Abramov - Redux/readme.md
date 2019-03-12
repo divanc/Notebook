@@ -16,16 +16,16 @@
 6. [Avoiding Array Mutations](6%20Avoiding%20Array%20)
 7. [Avoiding Object Mutations](7%20Avoiding%20Object%20Mutations.md)
 8. Todo
-  8.1 [Writing Todo Reducer](8%20Todo%20Reducer.md)
-  8.2 [Todo Reducers Composition](9%20Todo%20Composition.md)
-  8.3 [React Todo List: Adding todos](10%Todo%React%201.md)
-  8.4 [React Todo List: Toggling todos](11%Todo%React%202.md)
-  8.5 [React Todo List: Filtering todos](12%Todo%React%203.md)
-  8.6 [**Refacturing Todo**](13%20Refacturing.md)
-  8.7 [**Refacturing The Refactured Todo!**](14%20Refacturing%202.md)
-  8.8 [Passing The Store Down](15%20Passing%20Store%20Down.md)
-  8.9 [`connect`](16%20connect.md)
-  8.10 [Action creators](17%20Action%20Creator.md)
+8.1 [Writing Todo Reducer](8%20Todo%20Reducer.md)
+8.2 [Todo Reducers Composition](9%20Todo%20Composition.md)
+8.3 [React Todo List: Adding todos](10%Todo%React%201.md)
+8.4 [React Todo List: Toggling todos](11%Todo%React%202.md)
+8.5 [React Todo List: Filtering todos](12%Todo%React%203.md)
+8.6 [**Refacturing Todo**](13%20Refacturing.md)
+8.7 [**Refacturing The Refactured Todo!**](14%20Refacturing%202.md)
+8.8 [Passing The Store Down](15%20Passing%20Store%20Down.md)
+8.9 [`connect`](16%20connect.md)
+8.10 [Action creators](17%20Action%20Creator.md)
 
 Danчик will teach us how to manage state of our React App via Redux;
 
