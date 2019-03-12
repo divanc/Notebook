@@ -113,3 +113,106 @@ export class FilterLink extends Component {
   }
 }
 ```
+
+## VisibleTodoList
+
+That is a container for `TodoList`:
+
+```jsx
+export class VisibleTodoList extends Component {
+  componentDidMount() {
+    this.unsubscribe = store.subscribe(() => this.forceUpdate());
+  }
+
+  componentWillUnmount() {
+    this.unsubscribe();
+  }
+  render() {
+    const props = this.props;
+    const state = store.getState();
+
+    return (
+      <TodoList
+        todos={getVisibleTodos(state.todos, state.visibilityFilter)}
+        onTodoClick={id =>
+          store.dispatch({
+            type: "TOGGLE_TODO",
+            id
+          })
+        }
+      />
+    );
+  }
+}
+```
+
+So now before footer it would be enough to do:
+
+```jsx
+<VisibleTodoList />
+```
+
+## AddTodo
+
+And backtrack `AddTodo`:
+
+```jsx
+let nextTodoId = 0;
+
+export const AddTodo = () => {
+  let input;
+  const ref = useRef(null);
+
+  return (
+    <div>
+      <input ref={r => (ref.current = r)} />
+
+      <button
+        onClick={() => {
+          store.dispatch({
+            type: "ADD_TODO",
+            id: nextTodoId++,
+            text: ref.current.value
+          });
+          ref.current.value = "";
+        }}
+      >
+        Add Todo
+      </button>
+    </div>
+  );
+};
+```
+
+# CHECK THIS OUT:
+
+Now our main `TodoApp` is going to look like this:
+
+```jsx
+import React from "react";
+
+import { AddTodo } from "./AddTodo";
+import { VisibleTodoList } from "./VisibleTodoList";
+import { Footer } from "./Footer";
+
+export const TodoApp = () => (
+  <div>
+    <AddTodo />
+    <VisibleTodoList />
+    <Footer />
+  </div>
+);
+```
+
+DO YOU SEE THAT?
+
+Also `index`:
+
+```jsx
+import React from "react";
+import ReactDOM from "react-dom";
+
+import { TodoApp } from "./components/TodoApp";
+
+ReactDOM.render(<TodoApp />, document.getElementById("app"));
+```
