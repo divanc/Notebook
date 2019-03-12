@@ -1,12 +1,12 @@
-# Dan Abramov On Redux
-
 <p align="center">
 <img src="https://images.contentful.com/34rjphroaymg/4rnTNHjdSoEWmYUg2YgE0y/8fe539e8bb8b6465e107b6154f669f11/redux.svg" width="240">
 </p>
 
+# Dan Abramov On Redux
+
 [This](https://egghead.io/courses/getting-started-with-redux) wonderful fantastic tremendous super ultra meta lydian course.
 
-[This is the result](https://codesandbox.io/s/o5j36jokv5)
+[**This is the result**](https://codesandbox.io/s/o5j36jokv5)
 
 1. [Redux: The Immutable State Tree](/1%20State%20Tree.md)
 2. [Reducer](/%202%20Reducer.md)
