@@ -1,3 +1,7 @@
+| [< Previous abstract](8%20Todo%20Reducer.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](10%20Todo%20React%201.md) |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+
+
 # Reducer Composition With Arrays
 
 We faced a problem, that our reducer traces both whole arrays of todos and separate ones, we can solve it having one extra functions

@@ -1,3 +1,7 @@
+| [< Previous abstract](7%20Avoiding%20Object%20Mutations.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](9%20Todo%20Composition.md) |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+
+
 # Writing a todo reducer
 
 ```js

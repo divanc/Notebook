@@ -1,3 +1,7 @@
+| [< Previous abstract](4%20Store%20From%20Scratch.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](6%20Avoiding%20Array%20Mutations.md) |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+
+
 # React Counter Example
 
 Earlier we did:

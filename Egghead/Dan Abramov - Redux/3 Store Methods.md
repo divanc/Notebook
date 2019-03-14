@@ -1,3 +1,7 @@
+| [< Previous abstract](2%20Reducer.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](4%20Store%20From%20Scratch.md) |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+
+
 ## Redux Store Methods
 
 ```js

@@ -1,3 +1,7 @@
+| [< Previous abstract](1%20State%20Tree.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](3%20Store%20Methods.md) |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+
+
 # Reducer
 
 State mutations should be described as a pure functions.

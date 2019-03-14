@@ -1,4 +1,8 @@
-## Avoiding Array Mutations
+| [< Previous abstract](5%20React%20Counter.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](6%20Avoiding%20Object%20Mutations.md) |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+
+
+# Avoiding Array Mutations
 
 ### `concat()` is good
 

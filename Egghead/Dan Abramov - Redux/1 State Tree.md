@@ -1,3 +1,7 @@
+| [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](2%20Reducer.md) |
+| --------------------------------------------------------------------------------------------------------------- | --------------------------------- |
+
+
 # Redux: The Immutable State Tree
 
 **First principle of Redux: no matter how hard your app is, you save all your states in one JS object**.

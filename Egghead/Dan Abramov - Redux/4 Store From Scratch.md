@@ -1,3 +1,7 @@
+| [< Previous abstract](3%20Store%20Methods.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](5%20React%20Counter.md) |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+
+
 # Implemeting Store From Scratch
 
 Let's build our own Redux from scratch, you know, just for fun.

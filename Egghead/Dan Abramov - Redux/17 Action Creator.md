@@ -1,3 +1,7 @@
+| [< Previous abstract](16%20connect.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) |
+| -------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+
+
 # Action Creator
 
 In our `AddTodo` component we have such dispatch:

@@ -1,3 +1,7 @@
+| [< Previous abstract](12%20Todo%20React%203.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](13%20Refactoring%202.md) |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+
+
 # Refactoring our todo
 
     Keep it presentational

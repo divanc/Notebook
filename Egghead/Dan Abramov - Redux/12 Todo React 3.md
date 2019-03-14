@@ -1,3 +1,7 @@
+| [< Previous abstract](11%20Todo%20React%202.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](13%20Refactoring.md) |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+
+
 # React Todo List Example: Filtering Todos
 
 First of all let's create `FilterLink` component, which are links user would click:

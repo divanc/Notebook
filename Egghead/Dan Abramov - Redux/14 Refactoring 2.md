@@ -1,3 +1,7 @@
+| [< Previous abstract](13%20Refactoring.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](15%20Passing%20Store%20Down.md) |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+
+
 # Refacturing The Refactured Todo!
 
 ## FilterLink & Footer

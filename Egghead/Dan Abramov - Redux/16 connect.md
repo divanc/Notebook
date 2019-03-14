@@ -1,3 +1,7 @@
+| [< Previous abstract](15%20Passing%20Store%20Down.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](17%20Action%20Creator.md) |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+
+
 # Generating Containers with connect()
 
 ## VisibleTodoList

@@ -1,3 +1,7 @@
+| [< Previous abstract](14%20Refactoring%202.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](16%20connect.md) |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+
+
 # Passing The Store Down Explicitly
 
 Previously we passed the store to components, so they can subscribe to, dispatch on and get state from it.

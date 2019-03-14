@@ -1,3 +1,7 @@
+| [< Previous abstract](9%20Todo%20Composition.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](11%20Todo%20React%202.md) |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+
+
 # React Todo List Example: Adding a todo
 
 ```js

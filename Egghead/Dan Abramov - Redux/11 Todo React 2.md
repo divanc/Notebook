@@ -1,3 +1,7 @@
+| [< Previous abstract](10%20Todo%20React%201.md) | [Back To React Folder](https://github.com/Betra/Course-Abstract/blob/master/Egghead/Dan%20Abramov%20-%20Redux/) | [Next abstract >](10%20Todo%20React%203.md) |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+
+
 # React List Example: Toggling A Todo
 
 We've already built `isCompleted` switch, now let's handle the rest:
