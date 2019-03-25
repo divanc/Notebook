@@ -49,3 +49,118 @@ source ~/.bashrc
 ```console
 sudo apt install python-rosinstall python-rosinstall-generator python-wstool build-essential
 ```
+
+## Nodes + Topics
+
+ROS > NODE > TOPIC
+
+Node calls messages via topics.
+
+Let's see how two nodes can communicate with each other:
+
+```console
+roscore
+```
+
+Choosing the node, for example, `turtlesim`
+
+Runs the node:
+
+```console
+rosrun `NODENAME` `PKGNAME`
+
+rosrun turtlesim turtlesim_node
+```
+
+Then another one:
+
+```console
+rosrun turtlesim turtle_teleop_key
+```
+
+## How ROS Sees it
+
+ROS sees it as a proccess list
+
+```console
+rosnode list
+```
+
+We will get list of active nodes ROS currently use.
+
+- `/rosout` is used to exit ROS env
+- then our nodes
+
+### Variables
+
+If we run another `turtlesim_node`, it would close first instance of the node, as that name is already used
+
+Yet we can give another name, so ROS can distinguish and use both of these nodes:
+
+```console
+rosrun turtlesim turtlesim_node __name:=turtwo
+```
+
+Now we have two TURTLES!
+
+### Node Info
+
+```console
+rosnpde info `/NODENAME`
+```
+
+We will get info about what packages and what nodes are subscribed to the node
+
+Topic has a name and type: how we can call it and what it stores
+
+Some nodes write info in the topic, whereas other get info from it. Moreover nodes which write into topics, don't know about which nodes would read it
+
+That's why when we send info to `turtle_teleop_key` it has effect on both turtles: those turtles just subscribed to listen to the topic, to which `teleop` writes
+
+## Topic info
+
+In each topic in brackets we can see a type of msg, which it takes into itself.
+
+We can read that info using
+
+```console
+rostopic info `TOPICNAME`
+```
+
+We can manually write into topic:
+
+```
+rostopic pub `TOPICNAME` `TYPE`
+```
+
+we can set the daemon to read topic updates:
+
+```console
+rostopic echo `TOPICNAME`
+```
+
+## But there is a way
+
+package called `rqt_graph` shows all the info
+
+```console
+rosrun rqt_graph rqt_graph
+```
+
+We can see all the connections between nodes and topics
+
+#### Or `service` — from 1 to 1:
+
+```console
+rosservice list
+```
+
+We will get maaaaany services
+
+```console
+ressoervice info `SERVICENAME`
+```
+
+```console
+rossrv show `SERVICENAME`
+```
