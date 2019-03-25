@@ -20,6 +20,7 @@ Here you may find extremely-shortened versions of lessons and some how-to, that 
 ### JS & Libraries
 
 * [TypeScript Deep Dive](/TypeScript%20Deep%20Dive/)
+* [Traversy — TypeScript](/Traversy/TypeScript%20Crash/)
 * [Learn.Javascript.ru](/Learn%20Javascript/)
 * [Traversy — Node.js](/Traversy/Node.js%20Crash%20Course/)
 * [Habr: ES6 For Humans](/Articles/Habr%20%E2%80%94%20ES6%20for%20humans.md)
