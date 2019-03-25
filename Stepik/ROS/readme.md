@@ -4,7 +4,6 @@ This [course](https://stepik.org/course/3222/).
 
 ## Contents:
 
-* [Installation. First steps]()
-* [Simple ROS programs]()
-* [Advanced Tools]()
-
+- [Installation. First steps](Installation%20and%20first%20steps.md)
+- [Simple ROS programs]()
+- [Advanced Tools]()
