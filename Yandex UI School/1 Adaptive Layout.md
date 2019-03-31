@@ -1,4 +1,4 @@
-# Yandex UI School; Lesson 1
+# Yandex UI School: Adaptive Layout
 
     Chrome Dev Tools for adaptive purposes 4LIFE
 
@@ -32,9 +32,9 @@ Fixing this causes UI to become much bigger, as typically browser expects us to 
 
 **Easy decision** = Never adjust fixated width, em helps too
 
-BAD | SWEET
------------- | -------------
-```.section_Content {width: 1200px;} ```| ```.section_Content {max-width: 1200px;} ```
+| BAD                                      | SWEET                                        |
+| ---------------------------------------- | -------------------------------------------- |
+| ```.section_Content {width: 1200px;} ``` | ```.section_Content {max-width: 1200px;} ``` |
 
 #### Problem 3 
 `Too big headers for phones`
