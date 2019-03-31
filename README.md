@@ -38,7 +38,12 @@ Well, **Redux** helps to keep React ultra-dumb, it also does some magic 🦄
 - [_Traversy_: Fetch API](/Traversy/Fetch%20API%20Crash/)
 - [_Traversy_: Async JS](/Traversy/Async%JS%20Crash/)
 
-### Libs
+### Brain.js
+
+- [_Scrimba_: Introduction to Brain](/Scrimba/Brain/)
+- **Official Docs**
+
+### Node.js
 
 - [_Traversy_: Node.js](/Traversy/Node.js%20Crash%20Course/)
 
