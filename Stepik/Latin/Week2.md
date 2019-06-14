@@ -32,4 +32,171 @@
 Родительный: `ae`
 Без изменений в корне
 
-stell`a`  — звезда — stell`ae` — звездЫ — stell`ae` — звезде – stell`am` — звезду — stell`a` — от звезды —  stell`a` — о! Звезда!
+stell`a`  — звезда, 
+stell`ae` — звездЫ, 
+stell`ae` — звезде, 
+stell`am` — звезду, 
+stell`a` — от звезды,  
+stell`a` — о! Звезда!
+
+stell`ae` — звезды, 
+stell`ārum` — звезд,
+stell`is` — звездам,
+stell`as` — вижу звезды
+stell`is` — от звезд
+stell`ae` — О! Звезды!
+
+И самостоятельно сущестительное женского рода:
+
+vit`a` — жизнь
+vit`ae` — жизни
+vit`ae` — жизни
+vit`am` — жизнь
+vit`a` — от жизни
+vit`a` — О! Жизнь
+
+vit`ae` — жизни
+vit`ārum` — жизней
+vit`is` — жизням
+vit`as` — жизни
+vit`is` — от жизней
+vit`ae` — О! Жизни
+
+### Второе склонение 
+
+маркер: `o`
+Именительный `us (муж)/ um (сред)`
+Родительный: `i`
+Без изменений в корне
+
+#### Мужской род
+
+lup`us` — волк
+lup`i` — волка
+lup`o` — волку
+lup`um` — винить волка
+lup`o` — из волка
+lup`e`! — О! Волк
+
+В звательном падеже мужского рода ед числа `e`, как в русском — `Боже!`
+
+lup`i` — волки
+lup`ōrum` — волков
+lup`is` — волкам
+lup`os` — виню волков
+lup`is` — из волков
+lup`i`! — О! Волки
+
+#### Средний род
+
+verb`um` — слово
+verb`i` — слова
+verb`o` — слову 
+verb`um` — виню слово
+verb`o` — от слова
+verb`um`! — О! Слово!
+
+verb`a` — слова
+verb`orum` — слов
+verb`is` — словам
+verb`a` — виню слова
+verb`is` — из слов
+verb`a` — О! Слова!
+
+именительный/винительный/дательный падеж среднего рода — `a`
+Kak v russkom!
+
+Самостоятельная работа!
+
+libell`us` — книжка
+libell`i` — книжку
+libell`o` — книжке
+libell`um` — виню книжку
+libell`o` — от книжки
+libell`e`! — О! Книжка!
+
+libell`i` — книжки
+libell`orum` — книжек
+libell`is` — книжкам
+libell`os` — виню книжки
+libell`is` — от книжек
+libell`i`! — О! Книжки!
+
+### Названия падежей
+
+Именительный — Nominativus
+Родительный — Genetivus
+Дательный — Dativus
+Винительный — Accusativus
+Отложительный — Ablativus
+Звательный — Vocativus
+
+
+### Замечания
+
+Подлежащее стремися к началу предложения, а глагол к концу 
+
+Alexius discipulos docet — Алексей учеников учит
+
+
+## Прилагательные
+
+`us` — мужской 2 склон
+`a` — женский 1 склон
+`um` — средний 2 склон
+
+* Amicus bonus — хороший друг
+* Amici boni — хорошие друзья
+* Amico bono — хорошему другу
+* Amicuum bonum — виню хорошего друга
+* Amico bono — от хорошего друга
+* Amice bone! — О! Хороший друг!
+
+* Amici boni — хорошие друзья
+* Amicorum bonorum — хорошим друзьям
+* Amicis bonis — хорошим друзьям
+* Amicos bonos — виню хороших друзей
+* Amicis bonis — от хороших друзей
+* Amici boni! — о! хорошие друзья
+
+* Amica bona — хорошая подруга
+* Amicae bonae — хорошей подруги
+* Amicae bonae — хорошей подруге
+* Amicam bonam — хорошую подругу
+* Amica bona — от хорошей подруги
+* Amica bona! — О! Хорошая подруга!
+
+* Amicae bonae — хорошие подруги
+* Amicarum bonarum — хорошим подругам
+* Amicis bonis — хорошим подругам
+* Amicas bonas — виню хороших подруг 
+* Amicis bonis — от хороших подруг
+* Amicae bonae — О! Хорошие подруги!
+
+* Vinum bonum — хорошее вино
+* Vini boni — хорошего вина
+* Vino bono — хорошему вину
+* Vinum bonum — виню хорошее вино
+* Vino bono — от хорошего вина
+* Vinum bonum! — О! хорошее вино!
+
+* Vina bona — хорошие вина
+* Vinorum bonorum — хороших вин
+* Vinis bonis — хорошим винам 
+* Vina bona — виню хорошие вина
+* Vinis bonis — из хороших вин
+* Vina bona! — О! Хорошие Вина!
+
+### Глагол-бунтарь
+
+`sum, esse` — быть 
+
+`sum` — аз есмь 
+`es` — ты еси
+`est` — (он) есть
+`sumus` — мы есмы
+`estis` — вы ести 
+`sunt` — они суть
+
+Будь! — es!
+Будьте! — este!
