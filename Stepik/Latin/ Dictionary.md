@@ -49,24 +49,24 @@
 |  antīqus  	|   древний	    |
 |  bonus    	|   хороший 	|
 |  oppidus  	|   маленький	|
-|  parvum    	|   город 	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
+|  parvum    	|   город 	    |
+|  hiems 	    |   зима    	|
+|  labor     	            |   труд    	|
+|  viator   	            |   странник	|
+|  fortis   	            |   сильный 	|
+|  mare, maris              |   море	            |
+|  gravis               	|   серьезная 	        |
+|  arbor, arboris           |   дерево   	        |
+|  fenestra, fenestrae      |   окно    	        |
+|  oppidum, oppidi        	|   город	            |
+|  culpa, culpae           	|   вина	            |
+|  injuria, injuriae     	|   вред, оскорбление	|
+|  poena, poenae        	|   наказание, кара	    |
+|  debet                	|   должен          	|
+|  arcere                	|   предотвращать, защищать	|
+|  vacere                  	|   быть пустым     	|
+|  singularis, singulare 	|   единственный	|
+|  pluralis, plurale     	|   множественный	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
