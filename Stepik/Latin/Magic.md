@@ -60,3 +60,41 @@
 amat — _non_ amat
 
 любит — _не_ любит
+
+## Предлоги
+
+### Общие
+
+Как в русском  пригодны для (где) абблатив и (куда) аккузатив
+
+* in — в
+* sub – под 
+
+- Войти [в трамвай] —  `in` raedam transviariam
+- Заглянуть [под трамвай] — `sub` raedam transviariam
+- водитель [в трамвае] —  `in` raedam transviariam
+
+### Аблативные предлоги
+
+- `cum` raeda transviaria - с трамвая
+- `sine` raeda transviaria — без трамвая
+- `de` raeda transviaria — из трамвая/ о трамвае
+- `ex` raeda transviaria — из трамвая
+- `prae` raeda transviaria — перед трамваем
+- `a` raeda transviaria — ехал (чем) трамваем
+- `pro` raeda transviaria — за трамвай
+
+`a` — перед согласной, `ab` — перед гласной, `abs` — спецслучаи
+
+### Аккузативные предлоги
+
+- `ad` raedam transviariam - к трамваю
+- `ante` raedam transviariam - перед трамваем
+- `apud` fenestram - у окна
+- `circum` raedam transviariam - вокруг трамваем
+- `contra` raedam transviariam - против трамвая
+- `inter` raedas transviarias - между трамваями
+- `trans` viem — через улицу
+- `ob` raedam transviariam — по направлению/по причине
+- `post` raedam transviariam — после трамвая
+- `propter` raedam transviariam — по причине трамвая
