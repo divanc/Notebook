@@ -68,15 +68,15 @@
 |  singularis, singulare 	|   единственный	|
 |  pluralis, plurale     	|   множественный	|
 |  mittere     	|  ставить 	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
+|  gaudium 	|  веселье 	|
+|  principium 	|  начало 	|
+|  dolor 	|  боль/печаль 	|
+|  timor	|   страх	|
+|  diuturnus 	|   долгий	|
+|  officium 	|  долг 	|
+|  animus   	|  душа/намерение 	|
+|   horto	|   сад	|
+|   filia	|  дочь 	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
