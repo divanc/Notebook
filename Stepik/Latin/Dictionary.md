@@ -67,7 +67,7 @@
 |  vacere                  	|   быть пустым     	|
 |  singularis, singulare 	|   единственный	|
 |  pluralis, plurale     	|   множественный	|
-|   	|   	|
+|  mittere     	|  ставить 	|
 |   	|   	|
 |   	|   	|
 |   	|   	|
